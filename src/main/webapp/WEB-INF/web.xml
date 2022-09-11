@@ -47,4 +47,34 @@
     <servlet-name>NewPlateformes</servlet-name>
     <url-pattern>/NewPlateformes</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>ContactPage</display-name>
+    <servlet-name>ContactPage</servlet-name>
+    <servlet-class>routing.ContactPage</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ContactPage</servlet-name>
+    <url-pattern>/ContactPage</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>GalleryPage</display-name>
+    <servlet-name>GalleryPage</servlet-name>
+    <servlet-class>routing.GalleryPage</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>GalleryPage</servlet-name>
+    <url-pattern>/GalleryPage</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>BiographyPage</display-name>
+    <servlet-name>BiographyPage</servlet-name>
+    <servlet-class>routing.BiographyPage</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>BiographyPage</servlet-name>
+    <url-pattern>/BiographyPage</url-pattern>
+  </servlet-mapping>
 </web-app>

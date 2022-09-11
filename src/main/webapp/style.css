@@ -45,12 +45,7 @@ body    {
 .menu a:hover {
 	color:#ffff80;
 }
-footer	{
-	 width: 100%;
-	 max-width: 1320px;
-	 position:absolute;
-	 bottom:0;
-}
+
 .alignimg	{
 	 width: 100%;
 	 max-width: 1320px;
@@ -59,7 +54,36 @@ footer	{
 	 margin-right: auto;
 	 margin-left: auto;	
 }
+.gallery	{
+	
+	display: flex;
+    justify-content: space-around;
+    margin:20px;
+    
+}
+.bio	{
+	display:flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	padding-top:1em;
+	padding-bottom:1em;
+	}
+.bio p	{
+	width:400px;
+	line-height: 2em;
+}
+.bio p span	{
+	color:#ffff80;
+	font-size:2em;
+}
+footer	{
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
 .socialicon	{
+	width:200px;
 	display: flex;
     justify-content: space-between;
     flex-direction: row;

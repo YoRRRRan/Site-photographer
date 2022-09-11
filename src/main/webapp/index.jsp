@@ -20,20 +20,28 @@
 				<div class="menu">
 				
 					
-					<a href="">GALLERY</a>
-					<a href="">BIOGRAPHY</a>
-					<a href="">CONTACT</a>
+					<a href="GalleryPage">GALLERY</a>
+					<a href="BiographyPage">BIOGRAPHY</a>
+					<a href="ContactPage">CONTACT</a>
 					
+			</div>
+				<div class="gallery">
+					<img alt="" src="icoa.jpg" width=250px height=250px>
+					<img alt="" src="icoc.jpg" width=250px height=250px>
+					<img alt="" src="icocp.jpg" width=250px height=250px>
+					<img alt="" src="icosf.jpg" width=250px height=250px>
 				</div>
-		</div>
-			
 			<footer>
 				<div class="socialicon">
-					<img alt="" src="email.png" width=50px height=50px>
-					<img alt="" src="facebook.png" width=50px height=50px> 
-					<img alt="" src="whatsapp.png" width=50px height=50px>
+					<a href="mailto:nokin57@mail.ru" target="_blank"><img alt="" src="email.png" width=30px height=30px></a>
+					<a href="https://www.facebook.com/igor.andreev1957" target="_blank"><img alt="" src="facebook.png" width=30px height=30px></a> 
+					<a href="https://wa.me/79673358549" target="_blank"><img alt="" src="whatsapp.png" width=30px height=30px></a>
 				</div>	
-		</footer>
+			</footer>
+		</div>
+		
+			
+			
 				
 	</div>	
 	
