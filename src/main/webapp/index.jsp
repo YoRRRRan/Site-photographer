@@ -10,17 +10,32 @@
 	integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
 	crossorigin="anonymous">
 <meta charset="UTF-8">
-<title>Accueil JeuxWeb</title>
+<title>Home</title>
 </head>
 <body>
 	<div class="alignimg">
-		<div class="container bg-dark text-white" id="show">
-			<h1 class="titre">Bienvenue sur JeuxWeb</h1>
-			<a class="btn btn-primary mt-3" id="colorlien" href="ListJeux">Cliquez-ici pour afficher la liste des jeux</a>
+		<div class="container bg-dark text-white">
+			<h1 class="titre">IGOR ANDREEV</h1>
+			<h2 class="soustitre">PHOTOGRAPHER</h2>
+				<div class="menu">
 				
+					
+					<a href="">GALLERY</a>
+					<a href="">BIOGRAPHY</a>
+					<a href="">CONTACT</a>
+					
 				</div>
-				<img alt="rien" src="gl.png">
-			</div>	
+		</div>
+			
+			<footer>
+				<div class="socialicon">
+					<img alt="" src="email.png" width=50px height=50px>
+					<img alt="" src="facebook.png" width=50px height=50px> 
+					<img alt="" src="whatsapp.png" width=50px height=50px>
+				</div>	
+		</footer>
+				
+	</div>	
 	
 </body>
 </html>
