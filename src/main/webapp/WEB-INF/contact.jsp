@@ -25,7 +25,11 @@
 					<a href="ContactPage">CONTACT</a>
 					
 			</div>
-			
+			<div class= "contact">
+            <p> <a href="https://www.facebook.com/igor.andreev1957" target="_blank">facebook</a></p>
+            <p> <a href="mailto:nokin57@mail.ru" target="_blank">email</a></p>
+            <p> <a href= "mailto:nokin57@mail.ru"target="_blank">whatsapp</a></p>
+            </div>
 			<footer>
 				<div class="socialicon">
 					<a href="mailto:nokin57@mail.ru" target="_blank"><img alt="" src="email.png" width=30px height=30px></a>

@@ -26,10 +26,13 @@
 					
 			</div>
 				<div class="gallery">
-					<img alt="" src="icoa.jpg" width=250px height=250px>
-					<img alt="" src="icoc.jpg" width=250px height=250px>
-					<img alt="" src="icocp.jpg" width=250px height=250px>
-					<img alt="" src="icosf.jpg" width=250px height=250px>
+					<a href="https://public.joomeo.com/albums/631ee176773aa" target="_blank"><p>SELF-PORTRAIT</p><img alt="" src="icosf.jpg" width=250px height=250px></a>
+					<a href="https://public.joomeo.com/albums/631ee1d9914a8" target="_blank"><p>TAILS & PAWS</p><img alt="" src="icocp.jpg" width=250px height=250px></a>
+					<a href="https://public.joomeo.com/albums/631ee21c3c616" target="_blank"><p>CHILDREN</p><img alt="" src="icoc.jpg" width=250px height=250px></a>
+					<a href="https://public.joomeo.com/albums/631ee12d70aff" target="_blank"><p>ART</p><img alt="" src="icoa.jpg" width=250px height=250px></a>
+					
+					
+					
 				</div>
 			<footer>
 				<div class="socialicon">

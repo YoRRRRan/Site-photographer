@@ -61,6 +61,20 @@ body    {
     margin:20px;
     
 }
+.gallery a p {
+	display: flex;
+    justify-content: center;
+	margin:20px;
+}
+.gallery a {
+	color:white;
+	font-family:verdana;
+	font-style:normal;
+	text-decoration:none;
+}
+.gallery a p:hover	{
+	color:#ffff80;
+}
 .bio	{
 	display:flex;
 	flex-direction: row;
@@ -82,12 +96,34 @@ footer	{
 	align-items: center;
 	justify-content: center;
 }
+.contact	{
+	padding-top:4em;
+	padding-bottom:4em;
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.contact a {
+	font-size: 1,5em;
+	color:white;
+	font-family:verdana;
+	font-style:normal;
+	text-decoration:none;
+	margin:20px;
+}
+.contact a:hover	{
+	color:#ffff80;
+}
 .socialicon	{
 	width:200px;
 	display: flex;
     justify-content: space-between;
     flex-direction: row;
     margin:20px;
+}
+.socialicon a img {
+	animation: fadeIn 5s;
 }
 td	{
 	padding: 0.5em 1em 0.5em 1em;
