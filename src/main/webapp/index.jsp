@@ -18,11 +18,12 @@
 			<h1 class="titre">IGOR ANDREEV</h1>
 			<h2 class="soustitre">PHOTOGRAPHER</h2>
 				<div class="menu">
-				
-					
 					<a href="GalleryPage">GALLERY</a>
 					<a href="BiographyPage">BIOGRAPHY</a>
 					<a href="ContactPage">CONTACT</a>
+					<a href="UploadPhoto">Upload photo</a>
+					
+					
 					
 			</div>
 				<div class="gallery">

@@ -13,10 +13,8 @@
 <title>Erreur</title>
 </head>
 <body>
-<div class="container bg-dark text-white" id="show">
-<h1 class="titre">Oo00ps</h1>
-	
-			<a class="btn btn-primary mt-3" href="ListJeux">Retour</a>
+<div>
+
 		
 </div>
 </body>
